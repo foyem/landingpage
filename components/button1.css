@@ -1,0 +1,52 @@
+.button1-container {
+  display: flex;
+  position: relative;
+}
+.button1-button {
+  width: 292px;
+  height: 72px;
+  display: flex;
+  padding: 32px 56px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(203, 58, 41, 1);
+}
+.button1-frame2 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.button1-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  margin: 0 16px 0 0;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.button1-shoppingcart {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.button1-root-class-name {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+}
